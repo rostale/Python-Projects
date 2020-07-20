@@ -1,10 +1,3 @@
-"""
-
-This program will take all the images from a directory (inPath),
-make required edits on the image and save it in a different directory (outPath).
-
-"""
-
 from PIL import Image
 import os
 
