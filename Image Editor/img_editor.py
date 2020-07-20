@@ -9,6 +9,7 @@ outPath = r"C:\Users\xyz\OneDrive\Desktop\final"
 # using for loop to iterate through differrent image files.
 for imagePath in os.listdir(inPath):
     inputPath = os.path.join(inPath, imagePath)
+    #apllying the required edits to the image
     img = Image.open((inputPath), mode="r").convert('RGB').rotate(270).resize((720, 1080))
     fullOutPath = os.path.join(outPath, 'edited_'+imagePath)
     img.save(fullOutPath)
