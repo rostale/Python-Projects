@@ -17,3 +17,9 @@ python get-pip.py
 ```
 https://www.python.org/downloads/
 ```
+### Installing PIL module of Python3
+```
+pip install Pillow
+```
+## Built With
+* Python(https://www.python.org/) - The programming language used.
