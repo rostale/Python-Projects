@@ -11,7 +11,7 @@ What things you need to install the software and how to install them
 ```
 pip
 Python 3
-Python 3 moudles - pandas, bokeh, 
+Python 3 moudles - pandas, bokeh
 Python 3 built-in module - datetime
 ```
 
