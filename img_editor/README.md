@@ -1,5 +1,7 @@
 # Image Editor
 This program will edit all the images in a directory and store the edited images in a different directory.
+
+## Getting Started
 **It is important that you do not place .py file in the inPath or outPath to avoid any errors. Both inPath and outPath directories should only contain image files.**
 
 ### Prerequisites
