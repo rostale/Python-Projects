@@ -3,14 +3,15 @@ from difflib import get_close_matches
 
 data = json.load(open("data.json"))
 
+
 def dict(word):
-    word = word.lower() # converting the entered words in a lowecase
+    word = word.lower()   # converting the entered words in a lowecase
     if word in data:
         return data[word]
-    elif word.title() in data:      #if user entered "texas" this will check for "Texas" as well. For nouns(Delhi, Paris etc.)
-        return  data[word.title()]
-    elif word.upper() in data:      #in case user enters words like USA or NATO
-        return data[word.upper()]   
+    elif word.title() in data:   # if user entered "texas" this will check for "Texas" as well. For nouns(Delhi, Paris etc.)
+        return data[word.title()]
+    elif word.upper() in data:   # in case user enters words like USA or NATO
+        return data[word.upper()]
     elif len(get_close_matches(word, data.keys(), cutoff=0.8)) > 0:
         # suggesting words to user, if they make a spelling mistake
         yn = input("Did you mean %s instead? Enter Y for yes, N for no: " % get_close_matches(word, data.keys(), cutoff=0.8)[0])
@@ -24,6 +25,7 @@ def dict(word):
     else:
         return "The word doesn't exist. Please double check the word."
 
+
 user_input = input("Enter the word: ")
 output = dict(user_input)
 
@@ -32,6 +34,3 @@ if type(output) == list:
         print(item)
 else:
     print(output)
-
-
-
