@@ -9,9 +9,9 @@ from PIL import Image
 import os
 
 # image_process is the name of the directory where the images that are supposed to be edited are stored.
-inPath = r"C:\Users\aston\OneDrive\Desktop\image_process"
+inPath = r"C:\Users\xyz\OneDrive\Desktop\image_process"
 # final is the name of directory where images after getting edited are stored.
-outPath = r"C:\Users\aston\OneDrive\Desktop\final"
+outPath = r"C:\Users\xyz\OneDrive\Desktop\final"
 
 # using for loop to iterate through differrent image files.
 for imagePath in os.listdir(inPath):
