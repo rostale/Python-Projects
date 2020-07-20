@@ -1,9 +1,12 @@
-"""
+# Image Editor
+This program will edit all the images in a directory and store the edited images in a different directory.
 
-This program will take all the images from a directory (inPath),
-make required edits on the image and save it in a different directory (outPath).
-
-"""
+### Prerequisites
+What things you need to install the software and how to install them
+```
+Python 3 
+pip install pyhton3
+```
 
 **image_process is the name of the directory where the images that are supposed to be edited are stored.
 final is the name of directory where images after getting edited are stored.**
