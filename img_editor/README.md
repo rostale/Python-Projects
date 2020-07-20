@@ -4,9 +4,16 @@ This program will edit all the images in a directory and store the edited images
 ### Prerequisites
 What things you need to install the software and how to install them
 ```
-Python 3 
-pip install pyhton3
+pip
+Python 3
+Python 3 moudles - PIL
 ```
-
-**image_process is the name of the directory where the images that are supposed to be edited are stored.
-final is the name of directory where images after getting edited are stored.**
+### Installing PIP
+```
+curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+python get-pip.py
+```
+### Installing Python3
+```
+https://www.python.org/downloads/
+```
