@@ -17,9 +17,8 @@ Python 3 built-in module - datetime
 
 ### Installing pip
 ```
-pip
-Python 3
-Python 3 moudles - PIL
+curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+python get-pip.py
 ```
 
 ### Installing Python3
