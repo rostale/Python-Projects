@@ -4,7 +4,7 @@ Program to analyze a particular stock (which can be from any stock market around
 ## Getting Started
 **You need to find the stock symbol/code for the stock you want to analyze a candletstick chart (for example GOOGLE = GOOG, Apple Inc = AAPL, ICICI BANK = ICICIBANK>BO) and enter that in the 'name attribute' of 'DataReader function' in the 'df variable'.**
 
-There is also a Jupyter Notebook file with the same code as Python script. Use whichever you would like to.
+There is also a Jupyter Notebook (.ipynb) file with the same code as Python script. Use whichever you would like to.
 
 HTML page is a sample output of the webpage generated using bokeh module.
 
