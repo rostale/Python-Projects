@@ -17,6 +17,9 @@ Python 3 built-in module - datetime
 
 ### Installing pip
 ```
+pip
+Python 3
+Python 3 moudles - PIL
 ```
 
 ### Installing Python3
