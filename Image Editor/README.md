@@ -24,5 +24,11 @@ https://www.python.org/downloads/
 ```
 pip install Pillow
 ```
+
+### Styling Guide
+```
+pycodestyle 
+```
+
 ## Built With
 * Python(https://www.python.org/) - The programming language used.
