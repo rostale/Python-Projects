@@ -16,6 +16,11 @@ Python 3 moudles - difflib, json (built-in modules)
 https://www.python.org/downloads/
 ```
 
+### Styling Guide
+```
+pycodestyle 
+```
+
 ## Built With
 * Python(https://www.python.org/) - The programming language used.
 
