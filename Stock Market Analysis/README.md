@@ -45,6 +45,10 @@ pip install bokeh
 pycodestyle 
 ```
 
+## Screenshot
+
+![](Capture.PNG)
+
 ## Built With
 * Python(https://www.python.org/) - The programming language used.
 
