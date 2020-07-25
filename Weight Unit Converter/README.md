@@ -21,10 +21,9 @@ Installing Python3
 https://www.python.org/downloads/
 ```
 
-## Running the tests
+## Screenshot
 
-```
-```
+![](Output.PNG)
 
 ### Styling Guide
 
