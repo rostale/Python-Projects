@@ -40,6 +40,11 @@ pip install pandas
 pip install bokeh
 ```
 
+### Styling Guide
+```
+pycodestyle 
+```
+
 ## Built With
 * Python(https://www.python.org/) - The programming language used.
 
