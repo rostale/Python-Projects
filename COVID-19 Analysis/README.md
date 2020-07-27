@@ -56,7 +56,7 @@ pycodestyle
 ```
 ## Built With
 
-:beginner: Python(https://www.python.org/) - The programming language used.
+:beginner: Python (https://www.python.org/) - The programming language used.
 
 :beginner: Jupyter Notebook (https://jupyter.org/) -  The IDE used.
 
