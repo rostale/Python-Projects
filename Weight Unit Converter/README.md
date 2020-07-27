@@ -5,7 +5,7 @@ A simple unit converter that converts the entered value into different units of 
 ## Getting Started
 
 Enter the value in the textbox under the KG Label and press the convert button to get different values of weight in various other units.
-### Prerequisites
+### Prerequisites :eight_spoked_asterisk:
 
 What things you need to install the software and how to install them
 
@@ -21,7 +21,7 @@ Installing Python3
 https://www.python.org/downloads/
 ```
 
-## Screenshot
+## Screenshot :camera: 
 
 ![](Output.PNG)
 
@@ -33,4 +33,4 @@ pycodestyle
 
 ## Built With
 
-* Python(https://www.python.org/) - The programming language used.
+:beginner: Python(https://www.python.org/) - The programming language used.
