@@ -4,7 +4,7 @@ The user will be asked to enter the word for which the program will search the m
 ## Getting Started
 **The program converts uppercase letters to the lower case except for the nouns. If user makes a spelling mistake, the program will give suggestions based upon the accuracy (currently set as 0.8). User can select the suggested word to know the meaning or else select to end the search.**
 
-### Prerequisites
+### Prerequisites :eight_spoked_asterisk:
 What things you need to install the software and how to install them
 ```
 Python 3
@@ -22,5 +22,5 @@ pycodestyle
 ```
 
 ## Built With
-* Python(https://www.python.org/) - The programming language used.
+:beginner: Python(https://www.python.org/) - The programming language used.
 
