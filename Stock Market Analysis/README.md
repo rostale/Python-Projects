@@ -45,7 +45,7 @@ pip install bokeh
 pycodestyle 
 ```
 
-## Screenshot
+## Screenshot :camera: 
 
 ![](Capture.PNG)
 
