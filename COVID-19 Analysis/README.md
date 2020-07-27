@@ -5,7 +5,7 @@
 Using the data from Johns Hopkins University Center for Systems Science and Engineering (JHU CCSE) to analyse the spread of COVID-19 across 188 countries.
 **Data is updated till 26th July 2020**
 
-### Prerequisites 
+### Prerequisites :eight_spoked_asterisk:
 
 What things you need to install the software and how to install them
 
