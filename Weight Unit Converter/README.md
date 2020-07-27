@@ -21,7 +21,7 @@ Installing Python3
 https://www.python.org/downloads/
 ```
 
-## Screenshot :camera: 
+### Screenshot :camera: 
 
 ![](Output.PNG)
 
