@@ -38,7 +38,7 @@ pip install seaborn
 ```
 pip install matplotlib
 ```
-### Screenshots
+### Screenshots  :camera: 
 ![Capture](https://user-images.githubusercontent.com/63666629/88534062-ec4b9d80-d024-11ea-90cb-ac5cb15de6da.PNG)
 
 ![Capture1](https://user-images.githubusercontent.com/63666629/88534067-eeadf780-d024-11ea-9cbc-957b7327fef9.PNG)
