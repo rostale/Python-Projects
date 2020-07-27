@@ -18,8 +18,9 @@ Jupyter Notebook
 :arrow_right: **Data can be downloaded from -** https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases?force_layout=desktop
 
 ### Installing pip 
-curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+
 ```
+curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 python get-pip.py
 ```
 ### Installing Python3 
