@@ -10,7 +10,7 @@ HTML page is a sample output of the webpage generated using bokeh module.
 
 :warning: **If you face any problem while deploying the automatically generated HTML webpage by bokeh module, try clearing the cache from the browser you are using to deploy the webpage.**
 
-### Prerequisites
+### Prerequisites :eight_spoked_asterisk:
 What things you need to install the software and how to install them
 ```
 pip
