@@ -8,7 +8,7 @@ There is also a Jupyter Notebook (.ipynb) file with the same code as Python scri
 
 HTML page is a sample output of the webpage generated using bokeh module.
 
-**If you face any problem while deploying the automatically generated HTML webpage by bokeh module, try clearing the cache from the browser you are using to deploy the webpage.**
+:warning: **If you face any problem while deploying the automatically generated HTML webpage by bokeh module, try clearing the cache from the browser you are using to deploy the webpage.**
 
 ### Prerequisites
 What things you need to install the software and how to install them
@@ -50,5 +50,5 @@ pycodestyle
 ![](Capture.PNG)
 
 ## Built With
-* Python(https://www.python.org/) - The programming language used.
+:beginner: Python(https://www.python.org/) - The programming language used.
 
